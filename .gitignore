@@ -1,0 +1,8 @@
+# Ignored files
+*.swp
+x64
+.vs
+*.csv
+*.vcxproj*
+*.sln
+*.dat
